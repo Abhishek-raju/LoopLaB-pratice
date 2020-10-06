@@ -7,3 +7,26 @@ body{
         border-bottom: 3px solid #008ed6;
         opacity:0.8;
     }
+
+#home-section{
+    background:url(images/home.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    min-height: 700px;
+
+}
+
+ .dark-overlay{
+    position:absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    min-height: 700px;
+    background: black 0.7;
+}
+
+
+
+
+
