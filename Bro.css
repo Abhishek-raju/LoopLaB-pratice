@@ -22,6 +22,7 @@ body {
   left: 0;
   width: 100%;
   min-height: 700px;
-  background: black 0.7;
+  background: black;
+  opacity: 0.6;
 }
 /*# sourceMappingURL=Bro.css.map */
